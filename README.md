@@ -10,6 +10,6 @@ I am using the "Big Bang" method, where everything is tested at once, since the 
 |------------|---------------------------------------------------|---------------------------|
 | 1          | Test that the number of distinct users is correct | Expected number is 659774 |
 
-![alt text](https://github.com/mawmaw1/ "Logo Title Text 1")
+![alt text](https://github.com/mawmaw1/int_test/blob/master/img/1.png "nå")
 
 
